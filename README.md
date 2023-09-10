@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Hendersbyte
+- 👋 Hi, I’m @Henderson
 - 👀 I’m interested in Software design
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on my Web apps and startup
+- 🌱 I’m currently learning c# 
+- 💞️ I’m looking to collaborate on my software
 - 📫 How to reach me ...
 Twitter @dikehenderson or Gmail at hendersondike@gmail.com
 <!---
